@@ -1,0 +1,25 @@
+.principal{
+    max-width: 730px;
+    padding:15px;
+    background: #fff;
+    margin-top:20%;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    border-radius:8px;
+}
+body{
+    background-image: url("../imagens/fundo.jpg") !important;
+    background-size:cover;
+    background-repeat: no-repeat;
+    display:flex;
+    align-items: center;
+
+}
+
+.carousel-item {
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    border-radius:8px;
+}
